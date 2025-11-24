@@ -1,6 +1,6 @@
 # 🚀 Welcome to Cryptowebbuild (Tech Review) 
 
-Hire Me : CryptoWebBuild.com/contract
+Hire Me : https://cryptowebbuild.com/contact
 
 ## ✨ Technology Stack
 
@@ -72,11 +72,8 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to see your application running.
 
-## 🤖 Powered by Z.ai
 
-This scaffold is optimized for use with [Z.ai](https://chat.z.ai) - your AI assistant for:
 
-- **💻 Code Generation** - Generate components, pages, and features instantly
 - **🎨 UI Development** - Create beautiful interfaces with AI assistance  
 - **🔧 Bug Fixing** - Identify and resolve issues with intelligent suggestions
 - **📝 Documentation** - Auto-generate comprehensive documentation
@@ -130,4 +127,4 @@ This scaffold includes a comprehensive set of modern web development tools:
 - **Essential Hooks**: 100+ useful React hooks with ReactUse for common patterns
 
 ## 🤝 Check Out My Website 
-CryptoWebBuild.com
+https://cryptowebbuild.com/
